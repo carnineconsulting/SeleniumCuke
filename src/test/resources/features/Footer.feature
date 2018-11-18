@@ -1,0 +1,1 @@
+Feature:@Footer, @ReadyScenario: Verify Footer    Given I navigate to "https://www.wellmark.com/"    When I click on element having cssSelector "individualsAndFamilies"
